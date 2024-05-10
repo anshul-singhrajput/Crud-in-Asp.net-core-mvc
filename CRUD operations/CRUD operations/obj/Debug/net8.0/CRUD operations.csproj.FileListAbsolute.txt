@@ -1,0 +1,136 @@
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\appsettings.Development.json
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\appsettings.json
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\CRUD operations.staticwebassets.runtime.json
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\CRUD operations.exe
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\CRUD operations.deps.json
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\CRUD operations.runtimeconfig.json
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\CRUD operations.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\CRUD operations.pdb
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.AssemblyInfoInputs.cache
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.AssemblyInfo.cs
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.csproj.CoreCompileInputs.cache
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.MvcApplicationPartsAssemblyInfo.cache
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.RazorAssemblyInfo.cache
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.RazorAssemblyInfo.cs
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\staticwebassets.build.json
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\staticwebassets.development.json
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\staticwebassets\msbuild.CRUD operations.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD operations.props
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD operations.props
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD operations.props
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\scopedcss\bundle\CRUD operations.styles.css
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\scopedcss\projectbundle\CRUD operations.bundle.scp.css
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\refint\CRUD operations.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.pdb
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.genruntimeconfig.cache
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\ref\CRUD operations.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Azure.Core.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Azure.Identity.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Humanizer.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.CodeDom.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD operations.csproj.AssemblyReference.cache
+D:\Crud in Asp.net core mvc\CRUD operations\CRUD operations\obj\Debug\net8.0\CRUD ope.88B61206.Up2Date
